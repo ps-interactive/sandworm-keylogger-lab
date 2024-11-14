@@ -1,0 +1,1 @@
+f i r e f o x Key.space 1 7 2 . 1 8 . 0 . 2 Key.shift_r : 8 0 0 0 Key.enter o p e n p l c Key.tab o p e n p l c Key.enter Key.esc
